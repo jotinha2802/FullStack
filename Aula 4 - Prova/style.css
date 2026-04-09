@@ -1,0 +1,135 @@
+.cmc {
+display: flex;
+justify-content: space-around;
+gap: 100;
+align-items: center;
+color: gray;
+font-size: medium;
+}
+.assine {
+    table-layout: auto;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-size: large;
+}
+.dia {
+    display: flex;
+    justify-content: space-between;  
+}
+.info {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+    color: gray;
+    gap: 80;
+}
+.tit1 {
+    margin-left: 50px ;
+    color: red;
+    font-size: x-large;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    gap: 50px;
+}
+.imgg {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 30px;
+    flex-direction: column;
+    width: 800px;
+}
+.verm {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: crimson;
+    padding: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+.esquerda {
+    margin-left: 10px;
+    font-weight: bold;
+}
+.mulheres {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    
+}
+.mulher1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.mulher2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.apos {
+    color: red;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.cant {
+    color: grey;
+}
+.linha {
+    color: grey;
+}
+.cin {
+    display: flex;
+    background-color: rgb(66, 66, 66);
+    color: white;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Correio {
+    display: flex;
+    margin-left: 60px;
+    font-size: large;
+}
+.ponto {
+    display: flex;
+    color: rgb(153, 153, 153);
+    justify-content: center;
+    margin-left: 400px;
+}
+.vdo {
+    display: flex;
+    margin-left: 600px;
+    margin-bottom: 30px;
+}
+.end {
+    display: flex;
+    background-color: rgb(233, 233, 233);
+    justify-content: space-around;
+    align-content: center;
+    padding: 20px;
+}
+.colu1 {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.cinz {
+    color: gray;
+    font-size: medium;
+    font-family: Verdana;
+}
+.colu2 {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.colu3 {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.colu4 {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
