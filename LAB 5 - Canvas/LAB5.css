@@ -1,9 +1,0 @@
-#canvas {
-    background-color: aquamarine;
-    border-radius: 50px;
-}
-.center {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-}
