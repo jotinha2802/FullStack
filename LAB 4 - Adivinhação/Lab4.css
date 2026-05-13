@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Raleway:wght@300;400&display=swap');
+body{
+    background-color: rgb(183, 0, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#title{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 45px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+#nr{
+    background-color: white;
+}
